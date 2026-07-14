@@ -3,3 +3,4 @@ output/migration_log.txt
 migrate.py
 schema/data-extraction-query-bulk.sql
 schema/data-extraction-query-single.sql
+csv/*
